@@ -1,3 +1,6 @@
+## 🗂️ Project Structure
+
+
 Flappy-Bird-clone/
 ├── main.py # Main game logic
 ├── gallery/ # Assets folder
